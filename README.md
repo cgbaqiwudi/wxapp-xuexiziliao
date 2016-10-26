@@ -13,6 +13,8 @@
 
 
 ##视频教程合集
+[目录](http://bbs.larkapp.com/forum.php?mod=viewthread&tid=5695)
+
 [1.1课程介绍,定个小目标](http://bbs.larkapp.com/forum.php?mod=viewthread&tid=5673)
 
 [1.2开发文档简读，了解全貌](http://bbs.larkapp.com/forum.php?mod=viewthread&tid=5674)
